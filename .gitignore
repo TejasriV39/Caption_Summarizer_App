@@ -1,0 +1,43 @@
+# Python backend
+venv/
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+*.pt
+*.model
+
+# Environment variables
+.env
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs (catch-all)
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git merge conflict files
+*.orig
+
+# Temporary files
+*.tmp
+*.bak
+
+# Coverage/testing
+coverage/
+htmlcov/
+*.coverage
+.cache/
+
+# Node backend (if exists)
+node_modules/
